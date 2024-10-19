@@ -5,15 +5,15 @@
 
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; flex-direction: row;">
 
-  <div style="text-align: center; margin: 10px;">
+  <span style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
     <p><strong>Java</strong></p>
-  </div>
+  </span>
 
-  <div style="text-align: center; margin: 10px;">
+  <span style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />
     <p><strong>Python</strong></p>
-  </div>
+  </span>
 
   <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/fluency/48/javascript.png" alt="JavaScript" />
