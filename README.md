@@ -3,51 +3,63 @@
 
 ## 🛠 Skills
 
-<div class="skills-container">
-  <div class="skill-item">
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
     <p><strong>Java</strong></p>
   </div>
-  <div class="skill-item">
+
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />
     <p><strong>Python</strong></p>
   </div>
-  <div class="skill-item">
+
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/fluency/48/javascript.png" alt="JavaScript" />
     <p><strong>JavaScript</strong></p>
   </div>
-  <div class="skill-item">
+
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux" />
     <p><strong>Linux</strong></p>
   </div>
-  <div class="skill-item">
+
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/48/nodejs.png" alt="NodeJS" />
     <p><strong>NodeJS</strong></p>
   </div>
-  <div class="skill-item">
+
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/48/express-js.png" alt="ExpressJS" />
     <p><strong>ExpressJS</strong></p>
   </div>
-  <div class="skill-item">
+
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
     <p><strong>MongoDB</strong></p>
   </div>
-  <div class="skill-item">
+
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/office/40/react.png" alt="ReactJS" />
     <p><strong>React JS</strong></p>
   </div>
-  <div class="skill-item">
+
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" />
     <p><strong>HTML</strong></p>
   </div>
-  <div class="skill-item">
+
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/fluency/48/css3.png" alt="CSS" />
     <p><strong>CSS</strong></p>
   </div>
-  <div class="skill-item">
+
+  <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/48/git.png" alt="GIT" />
     <p><strong>GIT</strong></p>
   </div>
+
 </div>
 
 
