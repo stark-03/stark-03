@@ -12,4 +12,4 @@
 | **MongoDB** | **React JS** | **HTML** | **CSS** | **GIT** |
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stark-03&hide_progress=true)
+
