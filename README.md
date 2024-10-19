@@ -3,7 +3,7 @@
 
 ## 🛠 Skills
 
-<div style="display: flex; gap: 20px; justify-content: center; align-items: center; flex-wrap: wrap; width: 100%; max-width: 100%;">
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap; width: 50%; max-width: 100%;">
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 80px;">
     <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
     <p style="margin: 5px 0 0;"><strong>Java</strong></p>
