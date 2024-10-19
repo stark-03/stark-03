@@ -10,3 +10,6 @@
 | ![MongoDB](https://img.icons8.com/color/48/mongodb.png) | ![React JS](https://img.icons8.com/office/40/react.png) | ![HTML](https://img.icons8.com/color/48/html-5--v1.png) | ![CSS](https://img.icons8.com/fluency/48/css3.png) | ![GIT](https://img.icons8.com/color/48/git.png) |
 |:---:|:---:|:---:|:---:|:---:|
 | **MongoDB** | **React JS** | **HTML** | **CSS** | **GIT** |
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stark-03&hide_progress=true)
